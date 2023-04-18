@@ -1,0 +1,27 @@
+HTML & CSS- Day -2 : HTML recap CSS
+
+Contents:
+
+What is css?
+ways to use css 
+property & value 
+class vs id 
+use of important 
+display property: inline, block 
+
+
+
+Pre-read:
+
+https://www.w3schools.com/html/default.asp
+https://github.com/rvsp/html-CSS/
+
+
+
+github: Cmd
+
+git config --global user.email
+
+git config --global user.name
+
+
