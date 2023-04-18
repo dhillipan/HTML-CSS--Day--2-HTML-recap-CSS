@@ -25,3 +25,15 @@ git config --global user.email
 git config --global user.name
 
 
+Git VS code Terminal
+
+…or create a new repository on the command line
+echo "# HTML-CSS--Day--2-HTML-recap-CSS" >> README.md
+git init
+git add
+git status
+git commit -m "any message"
+git remote add origin https://github.com/dhillipan/HTML-CSS--Day--2-HTML-recap-CSS.git
+git push -u origin master
+
+
